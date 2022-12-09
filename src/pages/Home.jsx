@@ -21,10 +21,10 @@ function Home() {
 
         {/*  Page sections */}
         <HeroHome />
-        <FeaturesHome />
+        {/* <FeaturesHome />
         <FeaturesBlocks />
         <Testimonials />
-        <Newsletter />
+        <Newsletter /> */}
 
       </main>
 
@@ -36,5 +36,5 @@ function Home() {
     </div>
   );
 }
-
+// 
 export default Home;
